@@ -34,7 +34,7 @@
 
 @media (max-width: 767px) {
     .fullscreen-bg {
-        background: url('/images/first-frame.png') center center / cover no-repeat;
+        background: url('/first-frame.png') center center / cover no-repeat;
     }
 
     .fullscreen-bg__video {
