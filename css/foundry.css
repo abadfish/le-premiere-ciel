@@ -1,0 +1,148 @@
+element.style {
+}
+.bg-dark .filters.floating p, .bg-dark .filters.floating span, .bg-dark .filters.floating li {
+    color: #fefefe;
+}
+
+.filters.floating li {
+    margin-bottom: 0;
+}
+.filters li.active {
+    border-color: #47b475;
+    opacity: 1;
+}
+.filters li {
+    float: left;
+    margin-right: 32px;
+    cursor: pointer;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 2px solid #47b475;
+    padding: 0 26px;
+    height: 40px;
+    min-width: 150px;
+    line-height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 0;
+    color: #47b475;
+    text-align: center;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    margin-right: 8px;
+    margin-bottom: 24px;
+    height: 30px;
+    font-size: 11px;
+    line-height: 27px;
+    min-width: 0;
+    border-color: rgba(255, 255, 255, 0);
+    opacity: .7;
+    border-radius: 25px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: inline-block;
+}
+.bg-dark p, nav.bg-dark p, footer.bg-dark p, .bg-primary p, .bg-dark span, nav.bg-dark span, footer.bg-dark span, .bg-primary span, .bg-dark li, nav.bg-dark li, footer.bg-dark li, .bg-primary li {
+    color: #fefefe;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+Inherited from ul.filters.floating.cast-shadow.mb0
+.filters.floating {
+    position: absolute;
+    z-index: 10;
+    top: 16px;
+    text-align: center;
+    left: 50%;
+    transform: translate3d(-50%, 0, 0);
+    -webkit-transform: translate3d(-50%, 0, 0);
+    -moz-transform: translate3d(-50%, 0, 0);
+    background: rgba(255, 255, 255, 0.98);
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    border-radius: 200px;
+}
+ul {
+    list-style: none;
+}
+user agent stylesheet
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+Inherited from body.scroll-assist
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 13px;
+    line-height: 24px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #666;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+margin‒
+‒border2
+2padding‒
+2656.016 × 2626
+‒2
+28
+‒
+
+Console
+
+
+
+
+
+Preserve log
+﻿
+﻿
